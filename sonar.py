@@ -38,7 +38,7 @@ if (selected == "Sonar_Rock_vs_Mine_Pediction"):
     col1, col2, col3, col4, col5, col6, col7, col8, col9, col10 = st.columns(10)  
     
     with col1:
-        V0 = st.text_input('0')
+        v0 = st.text_input('0')
         
     with col2:
         v1 = st.text_input('1')
